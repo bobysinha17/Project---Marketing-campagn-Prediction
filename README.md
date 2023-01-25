@@ -3,7 +3,7 @@
 
 A brief description of what this project does and who it's for : This project is all about the customers will respond to the marketing campaign or not. To solve this problem i've used banking dataset.
 
-Dataset link : https://drive.google.com/file/d/1Q_HJ9aE6KudFCSf_qpDdD9cfqy8HFJb7/view?usp=share_link
+Dataset link : https://tinyurl.com/yjvat6pr
 
 Target : Did the customer respond? (Yes=1/Positive, No=0/Negative)
 
