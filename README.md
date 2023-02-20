@@ -1,5 +1,5 @@
 
-# Project Title - Bank Marketing Campaign Prediction...............
+# Project Title - Bank Marketing Campaign Prediction.............
 
 A brief description of what this project does and who it's for : This project is all about the customers will respond to the marketing campaign or not. To solve this problem i've used banking dataset.
 
